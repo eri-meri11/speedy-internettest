@@ -1,1 +1,1 @@
-# speedy-networktest
+# SPEEDY - Network Test
